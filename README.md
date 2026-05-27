@@ -16,7 +16,8 @@ Each record contains: ResidentID, Age, TransportMode, DailyDistance, EmissionFac
 
 - Load CSV data into an **array** or **linked list**
 - Analyze emissions by age group
-- Compare sorting performance (Merge Sort vs Bubble Sort)
+- Compare sorting performance
+- Big O Notation
 - Run analysis for all three cities
 
 ## Build & Run
