@@ -1,0 +1,12 @@
+*.o
+*.out
+.DS_Store
+build/
+cityA_list
+cityA_array
+cityB_list
+cityB_array
+cityC_list
+cityC_array
+array_program
+linkedlist_program
